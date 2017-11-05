@@ -1,4 +1,13 @@
-# Documentations
+![Vanilla Coding](https://s3.ap-northeast-2.amazonaws.com/vanilla-coding/Assets/logo_regular%403x.png)
+
+## 정보
+
+**본 문서는 누구나 참고하고 사용할 수 있는 자료입니다. 오류나 업데이트 사항이 있을시 Pull Request를 해주시면 감사하겠습니다.**
+
+- 작성자: [Ken Huh](https://github.com/Ken123777) from [바닐라 코딩](https://vanillacoding.co/)
+- 이메일: <ken@vanillacoding.co>
+
+## Wiki Home
 
 - [위키 홈페이지](https://github.com/vanilla-coding/docs/wiki)
 
