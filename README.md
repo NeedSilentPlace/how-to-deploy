@@ -10,3 +10,5 @@
 - [CLI를 이용한 Elastic Beanstalk 배포](https://github.com/vanilla-coding/docs/wiki/Deploying-with-Elastic-Beanstalk-CLI)
 
 ## Circle CI
+
+- [Circle CI를 통해 AWS Elastic Beanstalk으로 배포시키기](https://github.com/vanilla-coding/docs/wiki/Deploying-to-AWS-Elastic-Beanstalk-with-Circle-CI)
