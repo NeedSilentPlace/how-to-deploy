@@ -18,6 +18,10 @@
 - [Elastic Beanstalk CLI 설치](https://github.com/vanilla-coding/docs/wiki/Installing-Elastic-Beanstalk-CLI)
 - [CLI를 이용한 Elastic Beanstalk 배포](https://github.com/vanilla-coding/docs/wiki/Deploying-with-Elastic-Beanstalk-CLI)
 
+## AWS RDS
+
+- [AWS Elastic Beanstalk 연결하기](https://docs.aws.amazon.com/ko_kr/elasticbeanstalk/latest/dg/AWSHowTo.RDS.html)
+
 ## Circle CI
 
 - [Circle CI를 통해 AWS Elastic Beanstalk으로 배포시키기](https://github.com/vanilla-coding/docs/wiki/Deploying-to-AWS-Elastic-Beanstalk-with-Circle-CI)
