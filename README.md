@@ -4,7 +4,7 @@
 
 **본 문서는 누구나 참고하고 사용할 수 있는 자료입니다. 오류나 업데이트 사항이 있을시 Issue 요청이나 이메일로 연락해주시면 감사하겠습니다.**
 
-- 작성자: [Ken Huh](https://github.com/Ken123777) from [바닐라 코딩](https://vanillacoding.co/)
+- 작성자: [Ken Huh](https://github.com/Ken123777) from [바닐라 코딩](https://www.vanillacoding.co/)
 - 이메일: <ken@vanillacoding.co>
 
 ## Wiki Home
