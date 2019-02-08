@@ -1,4 +1,4 @@
-![Vanilla Coding](https://s3.ap-northeast-2.amazonaws.com/vanilla-coding/Assets/logo_regular%403x.png)
+![바닐라코딩 로고](https://s3.ap-northeast-2.amazonaws.com/vanilla-videos/images/main_logo_360.png)
 
 ## 정보
 
